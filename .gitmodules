@@ -1,0 +1,6 @@
+[submodule "submodules/timesheets-spa-angular"]
+	path = submodules/timesheets-spa-angular
+	url = https://github.com/MichalBurzynski89/timesheets-spa-angular.git
+[submodule "submodules/timesheets-api-node"]
+	path = submodules/timesheets-api-node
+	url = https://github.com/MichalBurzynski89/timesheets-api-node.git
